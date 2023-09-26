@@ -4,7 +4,8 @@
 	"description": "\"쏙쏙 들어오는 함수형 코딩\" 학습용 레포지토리",
 	"main": "index.js",
 	"scripts": {
-		"chapter03": "ts-node chapter03/index.ts"
+		"chapter03": "ts-node chapter03/index.ts",
+		"chapter04": "ts-node chapter04/index.ts"
 	},
 	"repository": {
 		"type": "git",
