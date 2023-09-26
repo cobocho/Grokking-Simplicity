@@ -1,0 +1,22 @@
+{
+	"name": "grokking-simplicity",
+	"version": "1.0.0",
+	"description": "\"쏙쏙 들어오는 함수형 코딩\" 학습용 레포지토리",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/cobocho/Grokking-Simplicity.git"
+	},
+	"author": "cobocho",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/cobocho/Grokking-Simplicity/issues"
+	},
+	"homepage": "https://github.com/cobocho/Grokking-Simplicity#readme",
+	"devDependencies": {
+		"@types/node": "^20.7.0",
+		"ts-node": "^10.9.1",
+		"tslib": "^2.6.2",
+		"typescript": "^5.2.2"
+	}
+}
